@@ -1,9 +1,4 @@
 from __future__ import print_function
-<<<<<<< HEAD
-#Test
-=======
-#Hey Ms.Hunt, it's me Cameron
->>>>>>> parent of b533a57... Revert "I made a lame change"
 '''
 PrisonerDilemma.py allows hard-coding different strategies
 for the Iterative Prisoners Dilemma, the canonical game of game-theory.
